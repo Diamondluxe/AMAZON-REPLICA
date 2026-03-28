@@ -450,9 +450,15 @@ ul a{
 .line3{
     display: flex;
     justify-content: center;
-    margin-bottom: 40px;
+    width: 100%;
 }
 .line3 a{
         color: white;
         margin-left: 5px;
+}
+.alert{
+    display: flex;
+    justify-content: center;
+    margin-bottom:  40px;
+     color: white;
 }
